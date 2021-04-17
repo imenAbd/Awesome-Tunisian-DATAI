@@ -28,6 +28,7 @@ A curated list of awesome Tunisian-made open source datasets, papers, projects a
 
 ### Papers 
 ### Companies
+ - https://deepera.ai/
 #### AI-FIRST:
 
 ### Competitions:
